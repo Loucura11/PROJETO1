@@ -15,7 +15,7 @@ int main () {
     
 
  Sala Banheiro;
-   Banheiro.setLimiarTemperatura(22);
+   Banheiro.setLimiarTemperatura(24);
     Banheiro.setLimiarClaridade(90);// valor entre 0 255
     Banheiro.setLimiarUmidadeUmidificador(50);
     Banheiro.setLimiarUmidadeDesumidificador(80);
